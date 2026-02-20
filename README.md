@@ -77,3 +77,9 @@ Scalability: The use of Parquet and AWS Glue allows this pipeline to handle larg
 Serverless: The entire architecture is serverless, meaning no infrastructure management is required.
 
 Automation: By integrating Lambda, the pipeline can be triggered by events (like a new file upload), making it a hands-off solution.
+
+
+---
+## 🔗 Connect & Support
+* **Full Video Tutorial:** [Watch on YouTube](https://www.youtube.com/watch?v=HjM5nZ89ndA)
+* **YouTube Profile:** [BigDataCloudEngineer](https://www.youtube.com/@BigDataCloudEngineer)
